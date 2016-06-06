@@ -1,0 +1,2 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; k=rsa; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZnsOfqSWKmJ0Hh2jQFEeRdCShzC40e2d4DTwrms8VWJYz5yMI1rpVqABP3S2RzlQG3PN73tsaMkp6bRZzlwaAhmN67wzoKZmeYCs69GsTDylgqGDoHoXC0PRaAGzP353PfmATNMryZM96KoLw8QxYGc1lg1v3ytRgW4iKUJk++wIDAQAB" )  ; ----- DKIM key mail for wt5.ephec-ti.be
